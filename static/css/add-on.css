@@ -1,0 +1,9 @@
+#intro a {
+  border-bottom: none;
+}
+
+#intro img.intro-circle {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}

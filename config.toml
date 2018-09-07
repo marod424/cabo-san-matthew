@@ -111,10 +111,10 @@ canonifyURLs = true
     src = "/img/main/logo.jpg"
 
     # Sets Image to be a circle
-    circle = false
+    circle = true
 
     # Sets Image to be Future Imperfect's hexagon
-    imperfect = true
+    imperfect = false
     width = ""
     alt = "Cabo"
 

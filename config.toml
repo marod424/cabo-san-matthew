@@ -143,8 +143,8 @@ canonifyURLs = true
   weight = 3
 
 [[menu.main]]
-  name = "Itemized"
-  url = "/itemized/"
+  name = "Projects"
+  url = "/projects/"
   identifier = "fa fa-list"
   weight = 4
 

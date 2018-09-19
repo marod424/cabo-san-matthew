@@ -1,8 +1,7 @@
-baseURL = "/"
+baseURL = "https://cabosante/"
 languageCode = "en-us"
 title = "Cabo San Matthew"
 theme = "future-imperfect"
-
 preserveTaxonomyNames = true
 paginate = 3
 disqusShortname = "shortname"

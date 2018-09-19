@@ -1,5 +1,9 @@
----
-title: "Contact"
-date: 2018-09-15T14:47:55-04:00
-draft: true
----
++++
+title = "Contact"
+type = "contact"
+netlify = true
+emailservice = ""
+contactname = "Your Name"
+contactemail = "Your Email Address"
+contactmessage = "Your Message"
++++

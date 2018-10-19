@@ -1,6 +1,6 @@
 baseURL = "https://cabosante.com/"
 languageCode = "en-us"
-title = "Cabo San Matthew"
+title = "Cabosante"
 theme = "future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
@@ -17,7 +17,7 @@ canonifyURLs = true
   description = "Life. Code. Philisophical musings."
 
   # Sets the navbarTitle that appears in the top left of the navigation bar
-  navbarTitle = "Cabo San Matthew"
+  navbarTitle = "Cabosante"
 
   # Sets where "View More Posts" links
   viewMorePostLink = "/posts/"
@@ -100,7 +100,7 @@ canonifyURLs = true
 # These are optional params related to the sidebar. They are recommended, but not
 # required for proper functionality. HTML is supported within the params.
 [params.intro]
-  header = "Cabo San Matthew"
+  header = "Matthew Rodriguez"
   paragraph = "Life. Code. Philisophical musings."
   about = "My personal blog..."
 

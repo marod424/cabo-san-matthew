@@ -10,6 +10,6 @@ link = ""
 linktitle = ""
 format = ""
 title = ""
-type = "project"
+type = "itemized"
 
 +++

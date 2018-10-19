@@ -1,6 +1,5 @@
 +++
 author = "Knowledgine, Inc."
-categories = ["EdTech", "Startup"]
 date = "2018-09-15T11:11:25-04:00"
 description = "Sound Knowledge for the Connected U"
 featured = "knowledgine.jpg"

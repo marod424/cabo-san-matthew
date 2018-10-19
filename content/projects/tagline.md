@@ -1,6 +1,5 @@
 +++
 author = "Matthew"
-categories = ["Marketing"]
 date = ""
 description = "Self reference"
 featured = "tagline.jpg"

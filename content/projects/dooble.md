@@ -1,6 +1,5 @@
 +++
 author = "Dooble, Inc."
-categories = ["Startup"]
 date = ""
 description = "Would you dooble me?"
 featured = "dooble.jpg"

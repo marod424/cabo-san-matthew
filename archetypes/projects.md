@@ -1,6 +1,5 @@
 +++
 author = ""
-categories = [""]
 date = ""
 description = ""
 featured = ""

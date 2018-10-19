@@ -1,6 +1,5 @@
 +++
 author = "Matthew"
-categories = ["Spirit"]
 date = ""
 description = "Geneology of Man"
 featured = "atam.jpg"

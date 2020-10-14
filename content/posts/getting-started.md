@@ -7,7 +7,7 @@ description = "Self referential post about starting a blog"
 featured = "pic01.jpg"
 featuredalt = "Pic 1"
 featuredpath = "date"
-linktitle = ""
+linktitle = "2018/09/pic01.jpg"
 title = "Getting Started"
 type = "post"
 

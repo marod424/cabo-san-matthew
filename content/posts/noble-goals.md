@@ -13,38 +13,43 @@ type = "post"
 
 +++
 
+<br>
+
 <table>
   <tr>
-    <td>Share the gospel</td>
     <td>Be righteous</td>
+    <td>Share the gospel</td>
   </tr>
 
   <tr>
-    <td>Feed the hungry</td>
     <td>Eat healthy</td>
+    <td>Feed the hungry</td>
   </tr>
 
   <tr>
-    <td>Protect the weak</td>
     <td>Exercise regularly</td>
+    <td>Protect the weak</td>
   </tr>
 
   <tr>
-    <td>Visit orphans & widows</td>
     <td>Pray & meditate</td>
+    <td>Visit orphans & widows</td>
   </tr>
 
   <tr>
-    <td>Clothe the naked</td>
     <td>Hydrate</td>
+    <td>Clothe the naked</td>
   </tr>
 
   <tr>
-    <td>Seek justice</td>
     <td>Read books</td>
+    <td>Seek justice</td>
   </tr>
+  
   <tr>
+    <td>Rest</td>
     <td>Love mercy</td>
-    <td>Sleep & rest</td>
   </tr>
 </table>
+
+<br>

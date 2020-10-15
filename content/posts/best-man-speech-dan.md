@@ -13,8 +13,6 @@ type = "post"
 
 +++
 
-<audio controls src="/media/twins.mp3"></audio>
-
 Dan and I are twins.
 
 We always have been.
@@ -27,6 +25,18 @@ I didn’t enjoy this, viscerally.  I am two years older than Dan.  He didn’t 
 I do think, however, that it brought Dan joy.  He was my biggest fan…
 
 … apparently.
+
+***
+
+**Live recording of the speech**
+
+<audio controls src="/media/twins.mp3"></audio>
+
+It begins here, and looseley follows my written outline...
+
+<sup>because I "memorized" it and spoke from the heart!<sup>
+
+***
 
 I say apparently because of a story that I am about to share.  A story only true in our memory, and held by my mom.
 (I suppose it would be fair for my Dad to say, it’s an old wives tale.)

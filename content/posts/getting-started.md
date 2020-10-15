@@ -1,7 +1,6 @@
 +++
 author = "Matthew Rodriguez"
 categories = ["Blog"]
-tags = ["beginning", "self reference"]
 date = "2018-09-18"
 description = "Self referential post about starting a blog"
 featured = "getting-started.jpg"
@@ -9,6 +8,7 @@ featuredalt = "Getting started"
 featuredpath = "img/2018/09"
 linktitle = "2018/09/getting-started.jpg"
 title = "Getting Started"
+tags = ["beginning", "self reference"]
 type = "post"
 
 +++

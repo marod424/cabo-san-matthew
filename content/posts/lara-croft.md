@@ -4,11 +4,11 @@ categories = ["Review"]
 date = "2020-12-31"
 description = "explore the temple, defeat hordes of enemies from the Egyptian underworld, solve devious puzzles, and avoid deadly traps"
 featured = "lara-croft.jpg"
-featuredalt = "Lara Croft and the Temple of Osiris"
+featuredalt = "Lara Croft"
 featuredpath = "img/2020/12"
 linktitle = "2020/12/lara-croft.jpg"
-title = "Lara Croft and the Temple of Osiris"
-tags = ["games", "action", "adventure"]
+title = "Lara Croft"
+tags = ["games", "action", "adventure", "single player", "multiplayer"]
 type = "post"
 
 +++

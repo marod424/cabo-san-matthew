@@ -8,9 +8,9 @@ featuredalt = "GYLT"
 featuredpath = "img/2020/12"
 linktitle = "2020/12/gylt.jpg"
 title = "GYLT"
-tags = ["games", "action", "adventure"]
+tags = ["games", "action", "adventure", "single player"]
 type = "post"
 
 +++
 
-> Face your fears in GYLT, a haunting tale about bullying and childhood nightmares, as you help Sally navigate a creepy world to rescue her missing cousin Emily. GYLT is available only on Stadia!
+> Face your fears in GYLT, a haunting tale about bullying and childhood nightmares, as you help Sally navigate a creepy world to rescue her missing cousin Emily.

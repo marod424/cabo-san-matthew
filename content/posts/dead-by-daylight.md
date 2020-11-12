@@ -8,12 +8,10 @@ featuredalt = "Dead By Daylight"
 featuredpath = "img/2020/12"
 linktitle = "2020/12/dead-by-daylight.jpg"
 title = "Dead By Daylight"
-tags = ["games", "multiplayer", "horror"]
+tags = ["games", "action", "multiplayer"]
 type = "post"
 
 +++
-
-> Death Is Not an Escape.
 
 > Dead by Daylight is a multiplayer (4vs1) horror game where one player takes on the role of the savage Killer, and the other four players play as Survivors, trying to escape the Killer and avoid being caught, tortured and killed.
 

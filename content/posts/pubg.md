@@ -2,13 +2,13 @@
 author = "Matthew Rodriguez"
 categories = ["Review"]
 date = "2020-12-31"
-description = "This is Battle Royale."
+description = "Highlands Edition"
 featured = "pubg.jpg"
 featuredalt = "PlayerUnknown's Battlegrounds"
 featuredpath = "img/2020/12"
 linktitle = "2020/12/pubg.jpg"
-title = "PlayerUnknown's Battlegrounds - Highlands Edition"
-tags = ["games", "shooter", "action"]
+title = "PlayerUnknown's Battlegrounds"
+tags = ["games", "shooter", "action", "multiplayer"]
 type = "post"
 
 +++

@@ -8,7 +8,7 @@ featuredalt = "Hello Neighbor"
 featuredpath = "img/2020/12"
 linktitle = "2020/12/hello-neighbor.jpg"
 title = "Hello Neighbor"
-tags = ["games", "action", "adventure"]
+tags = ["games", "action", "adventure", "single player"]
 type = "post"
 
 +++

@@ -8,7 +8,7 @@ featuredalt = "Little Nigtmares"
 featuredpath = "img/2020/12"
 linktitle = "2020/12/little-nightmares.jpg"
 title = "Little Nigtmares"
-tags = ["games", "adventure"]
+tags = ["games", "adventure", "single player"]
 type = "post"
 
 +++

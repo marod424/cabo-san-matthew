@@ -8,7 +8,7 @@ featuredalt = "Human: Fall Flat"
 featuredpath = "img/2020/12"
 linktitle = "2020/12/human-fall-flat.jpg"
 title = "Human: Fall Flat"
-tags = ["games", "adventure"]
+tags = ["games", "indie", "adventure", "kids & family", "single player", "multiplayer"]
 type = "post"
 
 +++

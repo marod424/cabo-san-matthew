@@ -2,13 +2,13 @@
 author = "Matthew Rodriguez"
 categories = ["Review"]
 date = "2020-12-31"
-description = "Generations of Power Rangers collide across the multiverse’s 25 year history"
+description = "Battle for the Grid"
 featured = "power-rangers.jpg"
-featuredalt = "Power Rangers: Battle for the Grid"
+featuredalt = "Power Rangers"
 featuredpath = "img/2020/12"
 linktitle = "2020/12/power-rangers.jpg"
-title = "Power Rangers: Battle for the Grid - Highlands Edition"
-tags = ["games", "fighting"]
+title = "Power Rangers"
+tags = ["games", "fighting", "single player", "multiplayer"]
 type = "post"
 
 +++

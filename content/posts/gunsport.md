@@ -8,7 +8,7 @@ featuredalt = "Gunsport"
 featuredpath = "img/2020/12"
 linktitle = "2020/12/gunsport.jpg"
 title = "Gunsport"
-tags = ["games", "mutliplayer", "arcade"]
+tags = ["games", "arcade", "sports", "indie", "single player", "mutliplayer"]
 type = "post"
 
 +++

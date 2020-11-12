@@ -7,8 +7,8 @@ featured = "jotun.jpg"
 featuredalt = "Jotun"
 featuredpath = "img/2020/12"
 linktitle = "2020/12/jotun.jpg"
-title = "Jotun: Valhalla Edition"
-tags = ["games", "action", "adventure"]
+title = "Jotun"
+tags = ["games", "action", "adventure", "single player"]
 type = "post"
 
 +++

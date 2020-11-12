@@ -7,8 +7,8 @@ featured = "embr.jpg"
 featuredalt = "Embr"
 featuredpath = "img/2020/12"
 linktitle = "2020/12/embr.jpg"
-title = "Embr Early Access"
-tags = ["games", "early access", "simulation"]
+title = "Embr"
+tags = ["games", "early access", "indie", "simulation", "casual", "single player", "multiplayer"]
 type = "post"
 
 +++

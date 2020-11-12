@@ -7,8 +7,8 @@ featured = "panzer-dragoon.jpg"
 featuredalt = "Panzer Dragoon"
 featuredpath = "img/2020/12"
 linktitle = "2020/12/panzer-dragoon.jpg"
-title = "Panzer Dragoon: Remake"
-tags = ["games", "arcade", "action", "adventure"]
+title = "Panzer Dragoon"
+tags = ["games", "remake", "arcade", "action", "adventure", "single player"]
 type = "post"
 
 +++

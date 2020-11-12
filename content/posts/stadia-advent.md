@@ -1,7 +1,7 @@
 +++
 author = "Matthew Rodriguez"
 categories = ["Blog"]
-date = "2020-12-31"
+date = "2020-10-31"
 description = "YouTube Premium promotional offering for Stadio Pro"
 featured = ""
 featuredalt = ""
@@ -16,23 +16,23 @@ type = "post"
 ## 31 Games in 31 Days
 
 1. [Celeste](/posts/celeste/)
-2. [Crayta: Premium Edition](/posts/crayta/)
+2. [Crayta](/posts/crayta/)
 3. [Dead by Daylight](/posts/dead-by-daylight/)
-4. [Destiny 2: The Collection](/posts/destiny-2/)
-5. [Embr Early Access](/posts/embr)
+4. [Destiny 2](/posts/destiny-2/)
+5. [Embr](/posts/embr)
 6. [Gunsport](/posts/gunsport)
 7. [GYLT](/posts/gylt)
 8. [Hello Neighbor](/posts/hello-neighbor)
 9. [Hello Neighbor: Hide and Seek](/posts/hello-neighbor-hide-n-seek)
-10. [HITMAN - The Complete First Season](/posts/hitman)
+10. [HITMAN](/posts/hitman)
 11. [Human: Fall Flat](/posts/human-fall-flat)
-12. [Jotun: Valhalla Edition](/posts/jotun)
+12. [Jotun](/posts/jotun)
 13. [Lara Croft and the Temple of Osiris](/posts/lara-croft)
 14. [Little Nightmares](/posts/little-nightmares)
 15. [Orcs Must Die! 3](/posts/orcs-must-die-3)
-16. [Panzer Dragoon: Remake](/posts/panzer-dragoon)
-17. [PlayerUnknown's Battlegrounds - Highlands Edition](/posts/pubg)
-18. [Power Rangers: Battle for the Grid](/posts/power-rangers)
+16. [Panzer Dragoon](/posts/panzer-dragoon)
+17. [PlayerUnknown's Battlegrounds](/posts/pubg)
+18. [Power Rangers](/posts/power-rangers)
 19. [République](/posts/republique)
 20. [Risk of Rain 2](/posts/risk-of-rain-2)
 21. [Rock of Ages 3: Make & Break](/posts/rock-of-ages-3)

@@ -8,7 +8,7 @@ featuredalt = "Hello Neighbor: Hide & Seek"
 featuredpath = "img/2020/12"
 linktitle = "2020/12/hello-neighbor-hide-n-seek.jpg"
 title = "Hello Neighbor: Hide & Seek"
-tags = ["games", "platformer"]
+tags = ["games", "action", "adventure", "single player"]
 type = "post"
 
 +++

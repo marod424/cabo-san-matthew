@@ -2,13 +2,13 @@
 author = "Matthew Rodriguez"
 categories = ["Review"]
 date = "2020-12-31"
-description = "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain"
+description = "piece together the mystery of the mountain"
 featured = "celeste.jpg"
 featuredalt = "Celeste"
 featuredpath = "img/2020/12"
 linktitle = "2020/12/celeste.jpg"
 title = "Celeste"
-tags = ["games", "platformer"]
+tags = ["games", "action", "indie", "single player"]
 type = "post"
 
 +++

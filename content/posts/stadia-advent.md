@@ -1,7 +1,7 @@
 +++
 author = "Matthew Rodriguez"
 categories = ["Blog"]
-date = "2020-10-31"
+date = "2020-12-31"
 description = "YouTube Premium promotional offering for Stadio Pro"
 featured = ""
 featuredalt = ""

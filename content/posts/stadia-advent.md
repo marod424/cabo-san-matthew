@@ -1,7 +1,7 @@
 +++
 author = "Matthew Rodriguez"
 categories = ["Blog"]
-date = "2020-12-31"
+date = "2020-10-31"
 description = "YouTube Premium promotional offering for Stadio Pro"
 featured = ""
 featuredalt = ""
@@ -35,14 +35,14 @@ type = "post"
 18. [Power Rangers](/posts/power-rangers)
 19. [République](/posts/republique)
 20. [Risk of Rain 2](/posts/risk-of-rain-2)
-21. [Rock of Ages 3: Make & Break](/posts/rock-of-ages-3)
+21. [Rock of Ages 3](/posts/rock-of-ages-3)
 22. [Sniper Elite 4](/posts/sniper-elite-4)
 23. [SteamWorld Dig](/posts/steamworld-dig)
 24. [SteamWorld Dig 2](/posts/steamworld-dig-2)
 25. [SteamWorld Heist](/posts/steamworld-heist)
-26. [SteamWorld Quest: Hand of Gilgamech](/posts/steamworld-quest)
-27. [Sundered: Eldritch Edition](/posts/sundered)
-28. [SUPER BOMBERMAN R ONLINE Premium Edition](/posts/super-bomberman)
+26. [SteamWorld Quest](/posts/steamworld-quest)
+27. [Sundered](/posts/sundered)
+28. [SUPER BOMBERMAN](/posts/super-bomberman)
 29. [SUPERHOT](/posts/superhot)
 30. [SUPERHOT: MIND CONTROL DELETE](/posts/superhot-mind-control-delete)
 31. [The Gardens Between](/posts/the-gardens-between)

@@ -2,13 +2,13 @@
 author = "Matthew Rodriguez"
 categories = ["Review"]
 date = "2020-12-31"
-description = "Resist or embrace"
+description = "Eldritch Edition"
 featured = "sundered.jpg"
-featuredalt = "Sundered: Eldritch Edition"
+featuredalt = "Sundered"
 featuredpath = "img/2020/12"
 linktitle = "2020/12/sundered.jpg"
-title = "Sundered: Eldritch Edition"
-tags = ["games", "action", "adventure"]
+title = "Sundered"
+tags = ["games", "action", "adventure", "single player", "multiplayer"]
 type = "post"
 
 +++

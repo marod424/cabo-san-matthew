@@ -8,7 +8,7 @@ featuredalt = "Risk of Rain 2"
 featuredpath = "img/2020/12"
 linktitle = "2020/12/risk-of-rain-2.jpg"
 title = "Risk of Rain 2"
-tags = ["games", "action", "adventure", "shooter"]
+tags = ["games", "action", "adventure", "shooter", "single player", "multiplayer"]
 type = "post"
 
 +++

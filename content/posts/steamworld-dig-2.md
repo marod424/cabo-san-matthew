@@ -8,7 +8,7 @@ featuredalt = "SteamWorld Dig 2"
 featuredpath = "img/2020/12"
 linktitle = "2020/12/steamworld-dig-2.jpg"
 title = "SteamWorld Dig 2"
-tags = ["games", "action", "adventure", "indie"]
+tags = ["games", "action", "adventure", "indie", "single player"]
 type = "post"
 
 +++

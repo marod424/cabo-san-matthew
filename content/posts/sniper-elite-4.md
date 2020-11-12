@@ -8,7 +8,7 @@ featuredalt = "Sniper Elite 4"
 featuredpath = "img/2020/12"
 linktitle = "2020/12/sniper-elite-4.jpg"
 title = "Sniper Elite 4"
-tags = ["games", "action", "adventure", "shooter"]
+tags = ["games", "action", "adventure", "shooter", "single player", "multiplayer"]
 type = "post"
 
 +++

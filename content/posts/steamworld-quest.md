@@ -2,13 +2,13 @@
 author = "Matthew Rodriguez"
 categories = ["Review"]
 date = "2020-12-31"
-description = "Triumph over evil with the hand you’re dealt!"
+description = "Hand of Gilgamech"
 featured = "steamworld-quest.jpg"
-featuredalt = "SteamWorld Quest: Hand of Gilgamech"
+featuredalt = "SteamWorld Quest"
 featuredpath = "img/2020/12"
 linktitle = "2020/12/steamworld-quest.jpg"
-title = "SteamWorld Quest: Hand of Gilgamech"
-tags = ["games", "action", "adventure", "RPG"]
+title = "SteamWorld Quest"
+tags = ["games", "action", "adventure", "RPG", "single player"]
 type = "post"
 
 +++

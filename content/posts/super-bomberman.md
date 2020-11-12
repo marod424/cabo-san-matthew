@@ -2,13 +2,13 @@
 author = "Matthew Rodriguez"
 categories = ["Review"]
 date = "2020-12-31"
-description = "move from one area to another and blast away your rivals"
+description = "R ONLINE Premium Edition"
 featured = "bomberman.jpg"
-featuredalt = "SUPER BOMBERMAN R ONLINE Premium Edition"
+featuredalt = "SUPER BOMBERMAN"
 featuredpath = "img/2020/12"
 linktitle = "2020/12/bomberman.jpg"
-title = "SUPER BOMBERMAN R ONLINE Premium Edition"
-tags = ["games", "action", "casual"]
+title = "SUPER BOMBERMAN"
+tags = ["games", "action", "casual", "multiplayer"]
 type = "post"
 
 +++

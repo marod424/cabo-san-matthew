@@ -8,7 +8,7 @@ featuredalt = "République"
 featuredpath = "img/2020/12"
 linktitle = "2020/12/republique.jpg"
 title = "République"
-tags = ["games", "action", "adventure"]
+tags = ["games", "adventure", "action", "single player"]
 type = "post"
 
 +++

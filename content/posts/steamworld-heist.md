@@ -2,13 +2,13 @@
 author = "Matthew Rodriguez"
 categories = ["Review"]
 date = "2020-12-31"
-description = "command a steam-driven pirate crew in a series of epic tactical shootouts"
+description = "command a steam-driven pirate crew"
 featured = "steamworld-heist.jpg"
 featuredalt = "SteamWorld Heist"
 featuredpath = "img/2020/12"
 linktitle = "2020/12/steamworld-heist.jpg"
 title = "SteamWorld Heist"
-tags = ["games", "action", "adventure", "strategy"]
+tags = ["games", "action", "adventure", "strategy", "single player"]
 type = "post"
 
 +++

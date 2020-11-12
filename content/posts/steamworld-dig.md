@@ -2,13 +2,13 @@
 author = "Matthew Rodriguez"
 categories = ["Review"]
 date = "2020-12-31"
-description = "Dig your way through the old earth, gaining riches while uncovering the ancient threat that lurks below..."
+description = "Dig your way through the old earth"
 featured = "steamworld-dig.jpg"
 featuredalt = "SteamWorld Dig"
 featuredpath = "img/2020/12"
 linktitle = "2020/12/steamworld-dig.jpg"
 title = "SteamWorld Dig"
-tags = ["games", "action", "adventure", "indie"]
+tags = ["games", "action", "adventure", "indie", "single player"]
 type = "post"
 
 +++

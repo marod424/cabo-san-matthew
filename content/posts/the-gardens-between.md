@@ -1,14 +1,14 @@
 +++
 author = "Matthew Rodriguez"
 categories = ["Review"]
-date = "2020-12-31"
+date = "2020-10-31"
 description = "Lost in a mysterious realm where cause and effect are malleable"
 featured = "the-gardens-between.jpg"
 featuredalt = "The Gardens Between"
 featuredpath = "img/2020/12"
 linktitle = "2020/12/the-gardens-between.jpg"
 title = "The Gardens Between"
-tags = ["games", "adventure", "indie", "puzzle"]
+tags = ["games", "adventure", "indie", "puzzle", "single player"]
 type = "post"
 
 +++

@@ -2,13 +2,13 @@
 author = "Matthew Rodriguez"
 categories = ["Review"]
 date = "2020-12-31"
-description = "Monty Python-esque humor"
+description = "Make & Break"
 featured = "rock-of-ages.jpg"
-featuredalt = "Rock of Ages 3: Make & Break"
+featuredalt = "Rock of Ages 3"
 featuredpath = "img/2020/12"
 linktitle = "2020/12/rock-of-ages.jpg"
-title = "Rock of Ages 3: Make & Break"
-tags = ["games", "arcade"]
+title = "Rock of Ages 3"
+tags = ["games", "arcade", "single player", "multiplayer"]
 type = "post"
 
 +++

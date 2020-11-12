@@ -8,7 +8,7 @@ featuredalt = "SUPERHOT"
 featuredpath = "img/2020/12"
 linktitle = "2020/12/superhot.jpg"
 title = "SUPERHOT"
-tags = ["games", "action", "shooter"]
+tags = ["games", "action", "shooter", "single player"]
 type = "post"
 
 +++

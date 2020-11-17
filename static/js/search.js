@@ -66,7 +66,7 @@ function populateResults(result){
     }
 
     if(snippet.length<1){
-      firstIndex = contents.toLowerCase().indexOf(searchQuery);
+      firstIndex = contents.toLowerCase().indexOf(searchQuery.toLowerCase());
       snippet += contents.substring(firstIndex - summaryInclude, summaryInclude + firstIndex + summaryInclude);
     }
     //pull template from hugo templarte definition

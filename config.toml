@@ -12,6 +12,9 @@ pluralizeListTitles = false
 enableRobotsTXT = true
 canonifyURLs = true
 
+[outputs]
+  home = ["HTML", "JSON"]
+
 [params]
   # Sets the meta tag description
   description = "Life. Code. Philisophical musings."

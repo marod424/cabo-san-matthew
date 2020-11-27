@@ -1,14 +1,12 @@
 +++
 author = "Matthew"
-date = ""
+date = "2016-12-24"
 description = "Geneology of Man"
 featured = "atam.jpg"
 featuredalt = ""
 featuredpath = "img/projects"
-link = "#"
-linktitle = ""
-format = "Angular.io"
 title = "Atam"
+tags = ["personal", "wiki"]
 type = "itemized"
 
 +++

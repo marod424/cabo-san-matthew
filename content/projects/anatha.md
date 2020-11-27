@@ -1,14 +1,14 @@
 +++
 author = "Project Anatha"
-date = ""
-description = "Made for humans"
+date = "2018-06-01"
+description = "Designed for humans"
 featured = "anatha.png"
 featuredalt = "Wallet Portfolio Composition"
 featuredpath = "img/projects"
-link = "#"
-linktitle = ""
-format = "React"
+link = "https://anatha.io/"
+linktitle = "anatha.io"
 title = "Anatha Lite Wallet"
+tags = ["freelance", "DeFi", "startup"]
 type = "itemized"
 
 +++

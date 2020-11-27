@@ -7,8 +7,8 @@ featuredalt = ""
 featuredpath = ""
 link = ""
 linktitle = ""
-format = ""
 title = ""
+tags = []
 type = "itemized"
 
 +++

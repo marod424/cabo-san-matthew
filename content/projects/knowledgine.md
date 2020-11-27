@@ -1,14 +1,14 @@
 +++
 author = "Knowledgine, Inc."
-date = "2018-09-15T11:11:25-04:00"
+date = "2017-11-01"
 description = "Sound Knowledge for the Connected U"
 featured = "knowledgine.jpg"
 featuredalt = "University Building"
 featuredpath = "img/projects"
-format = "Angular.io"
-link = "#"
-linktitle = ""
+link = "https://www.knowledgine.com/"
+linktitle = "knowledgine.com"
 title = "Knowledgine"
+tags = ["cofounder", "ed tech", "startup"]
 type = "itemized"
 
 +++

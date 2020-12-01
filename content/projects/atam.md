@@ -13,4 +13,12 @@ type = "itemized"
 
 ## Atam
 
-What's in a name?
+> What's in a name? That which we call a rose,  
+> By any other word would smell as sweet.  
+> ~ William Shakespeare, Romeo & Juliet
+
+There is power in the word, and mystery in the name.
+
+***
+
+*more to come...*

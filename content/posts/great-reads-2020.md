@@ -22,3 +22,5 @@ type = "post"
 7. *The Time Machine*
 8. *Strength to Love*
 9. *100 Years of Solitude*
+10. *The Cheese Bringer*
+11. *Prayer*

@@ -15,4 +15,8 @@ type = "itemized"
 
 ### A multi-token wallet for your digital blockchain assets.
 
-Built with Electron; made for humans.
+Right afer the pop of the 2018 Bitcoin bubble, I worked as a freelance developer for a cryptocurrency startup called *Anatha*.
+
+***
+
+*more to come...*

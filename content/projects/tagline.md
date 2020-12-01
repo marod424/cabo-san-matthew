@@ -19,7 +19,7 @@ The dash on my faithful Honda CRV has a rectangular nook meant for storing odds 
 
 &emsp;Perfect, that's a bit *odd*.
 
-The jowls on my faithful companion occasionally stores a tennis ball.
+The jowls on my faithful companion occasionally store a tennis ball.
 
 &emsp;Neat, that could *end*.
 

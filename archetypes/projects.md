@@ -5,6 +5,7 @@ description = ""
 featured = ""
 featuredalt = ""
 featuredpath = ""
+images = [""]
 link = ""
 linktitle = ""
 title = ""

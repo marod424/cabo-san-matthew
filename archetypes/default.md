@@ -6,5 +6,6 @@ linktitle = ""
 featured = ""
 featuredpath = ""
 featuredalt = ""
+images = [""]
 
 +++

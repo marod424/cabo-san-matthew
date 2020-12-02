@@ -7,6 +7,7 @@ featured = "stadia-advent.jpg"
 featuredalt = "Stadia Advent"
 featuredpath = "img/2020/11"
 linktitle = "2020/11/stadia-advent.jpg"
+images = ["2020/11/stadia-advent.jpg"]
 title = "Stadia Advent"
 tags = ["games", "stadia", "advent"]
 type = "post"

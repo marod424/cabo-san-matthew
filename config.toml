@@ -19,6 +19,9 @@ canonifyURLs = true
   # Sets the meta tag description
   description = "Life. Code. Philisophical musings."
 
+  # Sets the meta image
+  images = ["/img/main/logo-beard.png"]
+
   # Sets the navbarTitle that appears in the top left of the navigation bar
   navbarTitle = "Cabosante"
 

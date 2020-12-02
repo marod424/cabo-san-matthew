@@ -8,6 +8,7 @@ featuredalt = "Stadia Advent"
 featuredpath = "img/2020/11"
 linktitle = "2020/11/stadia-advent.jpg"
 images = ["img/2020/11/stadia-advent.jpg"]
+feature = "img/2020/11/stadia-advent.jpg"
 title = "Stadia Advent"
 tags = ["games", "stadia", "advent"]
 type = "post"
@@ -27,10 +28,8 @@ December has 31 days...
 
 # The Games
 
-1. [Celeste](/coming-soon)*
-<!-- 1. [Celeste](/posts/celeste/) -->
-2. Crayta
-<!-- 2. [Crayta](/coming-soon) -->
+1. [Celeste](/posts/celeste/)
+2. [Crayta](/coming-soon)*
 <!-- 2. [Crayta](/posts/crayta/) -->
 3. Dead by Daylight
 <!-- 3. [Dead by Daylight](/coming-soon)* -->

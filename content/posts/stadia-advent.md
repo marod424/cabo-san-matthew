@@ -28,10 +28,8 @@ December has 31 days...
 # The Games
 
 1. [Celeste](/posts/celeste/)
-2. [Crayta](/coming-soon)*
-<!-- 2. [Crayta](/posts/crayta/) -->
-3. Dead by Daylight
-<!-- 3. [Dead by Daylight](/coming-soon)* -->
+2. [Crayta](/posts/crayta/)
+3. [Dead by Daylight](/coming-soon)*
 <!-- 3. [Dead by Daylight](/posts/dead-by-daylight/) -->
 4. Destiny 2
 <!-- 4. [Destiny 2](/coming-soon)* -->

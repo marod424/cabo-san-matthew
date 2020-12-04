@@ -38,7 +38,7 @@ canonifyURLs = true
   rssAppearAtBottom = false
 
   # Sets Social Media icons to appear on the sidebar
-  socialAppearAtTop = false
+  socialAppearAtTop = true
   socialAppearAtBottom = true
 
   # Sets Categories to sort by number of posts instead of alphabetical
@@ -170,7 +170,7 @@ canonifyURLs = true
 # and socialAppearAtBottom.
 [social]
   # Coding Communities
-  github = "marod424/cabo-san-matthew"
+  github = "marod424"
   gitlab = ""
   stackoverflow = "" # User Number
   bitbucket = ""
@@ -188,7 +188,7 @@ canonifyURLs = true
   medium = ""
 
   # Professional/Business Oriented Communities
-  linkedin = ""
+  linkedin = "matthew-rodriguez-805a5397"
   linkedin_company = ""
   foursquare = ""
   xing = ""
@@ -199,7 +199,7 @@ canonifyURLs = true
   googleplus = ""
   reddit = ""
   quora = ""
-  youtube = ""
+  youtube = "channel/UCC9l0Riww8yTX3RGRgdu2Bg?view_as=subscriber"
   vimeo = ""
   whatsapp = "" # WhatsApp Number
 
@@ -209,7 +209,7 @@ canonifyURLs = true
 
   instagram = ""
   tumblr = ""
-  twitter = ""
+  twitter = "cabosante"
   skype = ""
   snapchat = ""
   pinterest = ""
@@ -220,4 +220,4 @@ canonifyURLs = true
   researchgate = ""
 
   # Email
-  email = ""
+  email = "cabosante@gmail.com"

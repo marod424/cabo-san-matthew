@@ -1,7 +1,7 @@
 +++
 author = "Matthew Rodriguez"
 categories = ["Blog"]
-date = "2020-12-05"
+date = "2020-12-06"
 description = "31 Games in 31 Days"
 featured = "stadia-advent.jpg"
 featuredalt = "Stadia Advent"
@@ -31,10 +31,8 @@ December has 31 days...
 2. [Crayta](/posts/crayta/)
 3. [Dead by Daylight](/posts/dead-by-daylight/)
 4. [Destiny 2](/posts/destiny-2/)
-5. [Embr](/coming-soon)*
-<!-- 5. [Embr](/posts/embr) -->
-6. Gunsport
-<!-- 6. [Gunsport](/coming-soon)* -->
+5. [Embr](/posts/embr)
+6. [Gunsport](/coming-soon)*
 <!-- 6. [Gunsport](/posts/gunsport) -->
 7. GYLT
 <!-- 7. [GYLT](/coming-soon)* -->

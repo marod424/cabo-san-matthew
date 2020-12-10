@@ -19,7 +19,7 @@ type = "post"
 
 <h1 style="text-align: center">7.1 / 10</h1>
 
-What's behind door number two? There is a strange desire in knowing what goes on within someone else's home, the secrets they keep behind their walls, which interior designers they follow on social media, and what snacks they have in their fridge.
+What's behind door number one? There is a strange desire in knowing what goes on within someone else's home, the secrets they keep behind their walls, which interior designers they follow on social media, and what snacks they have in their fridge.
 
 This curious game, heightened by a glimpse of intrigue, lets you explore that desire -- but not without tension. The neighbor appears to be up to no good; hold my bowling ball, I'm going in.
 
@@ -29,7 +29,7 @@ This curious game, heightened by a glimpse of intrigue, lets you explore that de
 
 ## Overall: 7.1 / 10
 
-*Hello Neighbor* is a puzzling game that conceptually contains the seed of brilliance but fails to deliver. The story and gameplay is built around the dichotomy of a recklessly curious child and a vigilantly creepy neighbor, where you as the former try to uncover the dark secrets of the latter -- the learning and adapting AI. Theoretically promising, *Hello Neighbor* pioneers the basis of a novel game genre that should only benifit with future polish and iteration.
+*Hello Neighbor* is a puzzling game that conceptually contains the seed of brilliance but fails to deliver. The story and gameplay is built around the dichotomy of a recklessly curious child and a vigilantly creepy neighbor, where you as the former try to uncover the dark secrets of the latter -- the learning and adapting AI. Theoretically promising, *Hello Neighbor* pioneers the basis of a novel game genre that should only benefit with future polish and iteration.
 
 ***
 

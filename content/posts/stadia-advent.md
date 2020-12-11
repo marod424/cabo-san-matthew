@@ -1,7 +1,7 @@
 +++
 author = "Matthew Rodriguez"
 categories = ["Blog"]
-date = "2020-12-10"
+date = "2020-12-11"
 description = "31 Games in 31 Days"
 featured = "stadia-advent.jpg"
 featuredalt = "Stadia Advent"
@@ -36,10 +36,8 @@ December has 31 days...
 7. [GYLT](/posts/gylt)
 8. [Hello Neighbor](/posts/hello-neighbor)
 9. [Hello Neighbor: Hide and Seek](/posts/hello-neighbor-hide-n-seek)
-10. [HITMAN](/coming-soon)*
-<!-- 10. [HITMAN](/posts/hitman) -->
-11. Human: Fall Flat
-<!-- 11. [Human: Fall Flat](/coming-soon)* -->
+10. [HITMAN](/posts/hitman)
+11. [Human: Fall Flat](/coming-soon)*
 <!-- 11. [Human: Fall Flat](/posts/human-fall-flat) -->
 12. Jotun
 <!-- 12. [Jotun](/coming-soon)* -->

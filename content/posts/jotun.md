@@ -65,7 +65,7 @@ Zzzzzzz.
 ***
 
 ### Production: 8.5 / 10
-I just wish they didn't fire the developer who coded the level mobs before he could merge his code. Seems like his buddy who developed the maps was also let go before release.
+I just wish they didn't fire the developer who coded the mobs before he could merge his code. Seems like his buddy who developed the maps was also let go before release.
 <br>
 <br>
 

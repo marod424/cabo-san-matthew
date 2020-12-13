@@ -1,7 +1,7 @@
 +++
 author = "Matthew Rodriguez"
 categories = ["Blog"]
-date = "2020-12-12"
+date = "2020-12-13"
 description = "31 Games in 31 Days"
 featured = "stadia-advent.jpg"
 featuredalt = "Stadia Advent"
@@ -38,10 +38,8 @@ December has 31 days...
 9. [Hello Neighbor: Hide and Seek](/posts/hello-neighbor-hide-n-seek)
 10. [HITMAN](/posts/hitman)
 11. [Human: Fall Flat](/posts/human-fall-flat)
-12. [Jotun](/coming-soon)*
-<!-- 12. [Jotun](/posts/jotun) -->
-13. Lara Croft and the Temple of Osiris
-<!-- 13. [Lara Croft and the Temple of Osiris](/coming-soon)* -->
+12. [Jotun](/posts/jotun)
+13. [Lara Croft and the Temple of Osiris](/coming-soon)*
 <!-- 13. [Lara Croft and the Temple of Osiris](/posts/lara-croft) -->
 14. Little Nightmares
 <!-- 14. [Little Nightmares](/coming-soon)* -->

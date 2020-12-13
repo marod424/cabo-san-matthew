@@ -38,7 +38,7 @@ Needed more. I wish the gameplay went in the direction of a combat hack-n-slash 
 <br>
 
 #### Controls 8.2 / 10
-Controls are fine, but too simple. So many unused keys -- the people want more! Also, I wish the *m* button rather than the *esc* button opened the map, mostly to throw shade towards the map experience.
+Controls are fine, but too simple. So many unused keys -- the people want more! Also, I wish the *m* button rather than the *esc* button opened the map, mostly because I want to throw shade towards the map experience.
 
 #### Difficulty: 6.8 / 10
 So easy I lost focus, thereby making it a bit harder. Boss fights were fine; levels were a flop.

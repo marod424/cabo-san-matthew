@@ -56,7 +56,7 @@ A triumph.
 #### Characters: 10 / 10
 Keen, piercing, acute. Perfect.
 
-#### Setting: 10/ 10
+#### Setting: 10 / 10
 Familiar, unusual, transformative. Perfect.
 
 #### Progression: 10 / 10

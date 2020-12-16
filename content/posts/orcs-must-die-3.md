@@ -28,7 +28,7 @@ This jocular title makes a strong statement in that regard, and one of death! Su
 
 ## Overall: 9.0 / 10
 
-*Orcs Must Die! 3* is an incredibly fun addition to an already successful series. Built on the basis of the tower-defense genre, with the inclusion of third person combat via a user controlled hero, the games addicting and polished gameplay progresses wonderfully -- wave after wave -- as orcs crash towards the base through a tactically and feverishly staged defense. *Orcs Must Die! 3* exceeds expectations, and its pleasantly surpassing gameplay will bring many back for battles to come.
+*Orcs Must Die! 3* is an incredibly fun addition to an already successful series. Built on the basis of the tower-defense genre, with the inclusion of third person combat via a user controlled hero, the game's addicting and polished gameplay progresses wonderfully -- wave after wave -- as orcs crash towards the base through a tactically and feverishly staged defense. *Orcs Must Die! 3* exceeds expectations, and its pleasantly surpassing gameplay will bring many back for battles to come.
 
 ***
 

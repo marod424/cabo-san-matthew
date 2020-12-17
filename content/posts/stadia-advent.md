@@ -1,7 +1,7 @@
 +++
 author = "Matthew Rodriguez"
 categories = ["Blog"]
-date = "2020-12-16"
+date = "2020-12-17"
 description = "31 Games in 31 Days"
 featured = "stadia-advent.jpg"
 featuredalt = "Stadia Advent"
@@ -42,10 +42,8 @@ December has 31 days...
 13. [Lara Croft and the Temple of Osiris](/posts/lara-croft)
 14. [Little Nightmares](/posts/little-nightmares)
 15. [Orcs Must Die! 3](/posts/orcs-must-die-3)
-16. [Panzer Dragoon](/coming-soon)*
-<!-- 16. [Panzer Dragoon](/posts/panzer-dragoon) -->
-17. PlayerUnknown's Battlegrounds
-<!-- 17. [PlayerUnknown's Battlegrounds](/coming-soon)* -->
+16. [Panzer Dragoon](/posts/panzer-dragoon)
+17. [PlayerUnknown's Battlegrounds](/coming-soon)*
 <!-- 17. [PlayerUnknown's Battlegrounds](/posts/pubg) -->
 18. Power Rangers
 <!-- 18. [Power Rangers](/coming-soon)* -->

@@ -1,7 +1,7 @@
 +++
 author = "Matthew Rodriguez"
 categories = ["Blog"]
-date = "2020-12-19"
+date = "2020-12-20"
 description = "31 Games in 31 Days"
 featured = "stadia-advent.jpg"
 featuredalt = "Stadia Advent"
@@ -45,10 +45,8 @@ December has 31 days...
 16. [Panzer Dragoon](/posts/panzer-dragoon)
 17. [PlayerUnknown's Battlegrounds](/posts/pubg)
 18. [Power Rangers](/posts/power-rangers)
-19. [République](/coming-soon)*
-<!-- 19. [République](/posts/republique) -->
-20. Risk of Rain 2
-<!-- 20. [Risk of Rain 2](/coming-soon)* -->
+19. [République](/posts/republique)
+20. [Risk of Rain 2](/coming-soon)*
 <!-- 20. [Risk of Rain 2](/posts/risk-of-rain-2) -->
 21. Rock of Ages 3
 <!-- 21. [Rock of Ages 3](/coming-soon)* -->

@@ -54,7 +54,7 @@ A three act story, each composed of a handful of chapters, weaving cinematic cha
 <br>
 
 #### Characters: 9.0 / 10
-JLS, 10 / 10. There are other characters, and they are Power Ranger's and stuff, whatever / 10.
+JLS, 10 / 10. There are other characters, and they are Power Rangers and stuff, whatever / 10.
 
 #### Setting: 8.2 / 10
 It's a multiverse, how excitingly overwhelming. I wish the levels were more interactive, but I suppose that's more of a gameplay critique.
@@ -65,7 +65,7 @@ Like a Saturday morning cartoon.
 ***
 
 ### Production: 8.6 / 10
-Not just a free ride on the *Power Ranger's* past success, this game is actually quite polished and overall well-made.
+Not just a free ride on the *Power Rangers'* past success, this game is actually quite polished and overall well-made.
 <br>
 <br>
 

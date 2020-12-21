@@ -1,7 +1,7 @@
 +++
 author = "Matthew Rodriguez"
 categories = ["Review"]
-date = "2020-12-31"
+date = "2021-12-31"
 description = "Hand of Gilgamech"
 featured = "steamworld-quest.jpg"
 featuredalt = "SteamWorld Quest"

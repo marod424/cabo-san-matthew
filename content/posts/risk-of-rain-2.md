@@ -1,7 +1,7 @@
 +++
 author = "Matthew Rodriguez"
 categories = ["Review"]
-date = "2020-12-31"
+date = "2021-12-31"
 description = "Escape a chaotic alien planet by fighting through hordes of frenzied monsters"
 featured = "risk-of-rain-2.jpg"
 featuredalt = "Risk of Rain 2"

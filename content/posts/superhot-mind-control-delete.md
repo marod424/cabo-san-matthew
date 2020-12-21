@@ -1,7 +1,7 @@
 +++
 author = "Matthew Rodriguez"
 categories = ["Review"]
-date = "2020-12-31"
+date = "2021-12-31"
 description = "Time moves only when you move. Enemies pour in from every direction."
 featured = "superhot-mind-control-delete.jpg"
 featuredalt = "SUPERHOT: MIND CONTROL DELETE"

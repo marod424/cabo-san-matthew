@@ -28,7 +28,7 @@ This expertly designed game unashamedly lets players enter the fray. Accordingly
 
 ## Overall: 9.7 / 10
 
-*Sniper Elite 4* is a triumphant success within the crowded, yet welcome, WWII storytelling space. Of the first-person shooter type, and composed with vast stealth missions among the beautiful landscapes of Italy and the Mediterranean coast, the tactical gameplay of long-range marking and killing follows as you don the heroic form of an elite sniper who goes on fantastic missions familiar to that of the parallelly successful *HITMAN* franchise. *Sniper Elite 4*, despite competing in a saturated genre, is a polished masterpiece of characteristically elite gameplay, story, and production.
+*Sniper Elite 4* is a triumphant success within the crowded, yet welcome, WWII storytelling space. Of the first-person shooter variety, and composed with vast stealth missions among the beautiful landscapes of Italy and the Mediterranean coast, the tactical gameplay of long-range marking and killing follows as you don the heroic form of an elite sniper who goes on fantastic missions familiar to that of the parallelly successful *HITMAN* franchise. *Sniper Elite 4*, despite competing in a saturated genre, is a polished masterpiece of characteristically elite gameplay, story, and production.
 
 ***
 

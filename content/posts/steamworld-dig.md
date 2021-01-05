@@ -70,7 +70,7 @@ Indie production, through and through, with nothing too exceptional nor detrimen
 <br>
 
 #### Music 8.2 / 10
-It's there and it works, but it doesn't bop or slap.
+It's there and it works, but it's not a bop and it doesn't slap.
 
 #### Art 8.3 / 10
 Yeah, looks right.
@@ -84,7 +84,7 @@ Fine. Didn't wow me and didn't bother me.
 It's worth a play through.
 
 **Replay?**  
-Probably not, unless you count the sequel. <!-- [sequel](/posts/steamworld-dig-2). -->
+Probably not, unless you count the [sequel](/posts/steamworld-dig-2).
 
 **Joy?**  
 I can dig it.

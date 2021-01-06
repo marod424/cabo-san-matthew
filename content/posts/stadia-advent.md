@@ -1,7 +1,7 @@
 +++
 author = "Matthew Rodriguez"
 categories = ["Blog"]
-date = "2020-12-25"
+date = "2020-12-26"
 description = "31 Games in 31 Days"
 featured = "stadia-advent.jpg"
 featuredalt = "Stadia Advent"
@@ -51,10 +51,8 @@ December has 31 days...
 22. [Sniper Elite 4](/posts/sniper-elite-4)
 23. [SteamWorld Dig](/posts/steamworld-dig)
 24. [SteamWorld Dig 2](/posts/steamworld-dig-2)
-25. [SteamWorld Heist](/coming-soon)*
-<!-- 25. [SteamWorld Heist](/posts/steamworld-heist) -->
-26. SteamWorld Quest
-<!-- 26. [SteamWorld Quest](/coming-soon)* -->
+25. [SteamWorld Heist](/posts/steamworld-heist)
+26. [SteamWorld Quest](/coming-soon)*
 <!-- 26. [SteamWorld Quest](/posts/steamworld-quest) -->
 27. Sundered
 <!-- 27. [Sundered](/coming-soon)* -->

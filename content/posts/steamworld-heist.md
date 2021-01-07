@@ -28,7 +28,7 @@ This lighthearted game offers forgivable forays of the former. I am ready to ent
 
 ## Overall: 9.3 / 10
 
-*SteamWorld Heist* is a refreshingly unique spin on the *SteamWorld Dig* franchise. The game utilizes turn-based missions to employ a healthy combination of tactics and timing mechanics for an enjoyable experience that compels through engaging story and a simple feedback reward system -- loot enemy spaceships for better weapons and items; level up characters, gaining improved skills and new abilities; expand your crew with new unlockable steambots to command. *SteamWorld Heist* certainly contains an informant, as it attempts and fails to steal away countless hours, but rather exchanges them  with ship-loads of fun.
+*SteamWorld Heist* is a refreshingly unique spin on the *SteamWorld Dig* franchise. The game utilizes turn-based missions to employ a healthy combination of tactics and timing mechanics for an enjoyable experience that compels through engaging story and a simple feedback reward system -- loot enemy spaceships for better weapons and items; level up characters, gaining improved skills and new abilities; expand your crew with new unlockable steambots to command. *SteamWorld Heist* certainly contains an informant, as it attempts and fails to steal away countless hours, but rather exchanges them with ship-loads of fun.
 
 ***
 

@@ -12,6 +12,11 @@ pluralizeListTitles = false
 enableRobotsTXT = true
 canonifyURLs = true
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+      
 [outputs]
   home = ["HTML", "JSON"]
 

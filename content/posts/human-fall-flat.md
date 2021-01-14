@@ -15,11 +15,8 @@ type = "post"
 +++
 
 > Human: Fall Flat is a hilarious, light-hearted physics platformer set in a world of floating dreamscapes.
-
 > Each dream level provides a new environment to navigate, from mansions, castles and Aztec adventures to snowy mountains, eerie nightscapes and industrial locations. Multiple routes through each level, and perfectly playful puzzles ensure exploration and ingenuity are rewarded.
-
 > Should your Human fall from a rope, misjudge a platform or even get pushed off a cliff by a friend, never fear: they will simply fall back into the dream, ready to try again and again.
-
 > Human: Fall Flat can be played solo or with up to 16 players online for even more laughter.
 
 <h1 style="text-align: center">9.2 / 10</h1>

@@ -15,7 +15,6 @@ type = "post"
 +++
 
 > Join Embr, THE Emergency Services Revolution, and become an Embr Respondr™ today! Fight fires and save lives while climbing the ladder of success, all within the comfort of flexible working hours. Embr's mission is simple; bring über firefighting to everyone, everywhere.
-
 > As an Embr Respondr™️ you'll answer clients' calls for help, and bring firefighting directly to their door! Break down doors, clear gas leaks and put out fires - no job is too much for an Embr Respondr™️.
 
 <h1 style="text-align: center">8.5 / 10</h1>

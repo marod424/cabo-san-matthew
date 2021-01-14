@@ -1,7 +1,7 @@
 +++
 author = "Matthew Rodriguez"
 categories = ["Blog"]
-date = "2020-12-29"
+date = "2020-12-30"
 description = "31 Games in 31 Days"
 featured = "stadia-advent.jpg"
 featuredalt = "Stadia Advent"
@@ -55,12 +55,10 @@ December has 31 days...
 26. [SteamWorld Quest](/posts/steamworld-quest)
 27. [Sundered](/posts/sundered)
 28. [SUPER BOMBERMAN](/posts/super-bomberman)
-29. [SUPERHOT](/coming-soon)*
-30. SUPERHOT: MIND CONTROL DELETE
+29. [SUPERHOT](/posts/superhot)
+30. [SUPERHOT: MIND CONTROL DELETE](/coming-soon)*
 31. The Gardens Between
 
-<!-- 29. [SUPERHOT](/posts/superhot) -->
-<!-- 30. [SUPERHOT: MIND CONTROL DELETE](/coming-soon)* -->
 <!-- 30. [SUPERHOT: MIND CONTROL DELETE](/posts/superhot-mind-control-delete) -->
 <!-- 31. [The Gardens Between](/coming-soon)* -->
 <!-- 31. [The Gardens Between](/posts/the-gardens-between) -->

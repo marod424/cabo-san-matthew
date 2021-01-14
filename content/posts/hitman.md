@@ -15,9 +15,7 @@ type = "post"
 +++
 
 > Experience a globetrotting adventure as Agent 47 and travel to exotic sandbox locations that are meticulously crafted and packed full of creative opportunities.
-
 > As Agent 47, you will perform contract hits on powerful, high-profile targets in an intense spy-thriller story across a world of assassination.
-
 > As you complete missions and contract new weapons, items and equipment become available for use across all locations. Learn the tools of the trade as you earn your way to Silent Assassin status.
 
 <h1 style="text-align: center">9.9 / 10</h1>

@@ -19,9 +19,9 @@ type = "post"
 
 <h1 style="text-align: center">9.5 / 10</h1>
 
-How is it, in life, that we *become*? Of that existential mystery I cannot answer, nor do I dare to presume, and yet, in reading this I bless you with a boon to *become* super hawt.
+How is it, in life, that we *become*? Of that existential mystery I cannot answer, nor do I dare to presume, and yet, in reading this I bless you with a boon to *become* supah hawt.
 
-This uniquely creative game may also be offering such grace. I can't be certain, and please do not hold me accountable in either regard, for experiences may vary, but there is only one way to find out...
+This uniquely creative game may also be offering such grace. I can't be certain, and please do not hold me accountable in either regard as experiences may vary, but there is only one way to find out...
 
 *<b>Disclaimer</b> &mdash; this review is a result of my biased first impression after propagating a few hours of viral gameplay and should be taken lightly.*
 

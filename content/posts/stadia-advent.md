@@ -57,7 +57,4 @@ December has 31 days...
 28. [SUPER BOMBERMAN](/posts/super-bomberman)
 29. [SUPERHOT](/posts/superhot)
 30. [SUPERHOT: MIND CONTROL DELETE](/posts/superhot-mind-control-delete)
-31. [The Gardens Between](/coming-soon)*
-<!-- 31. [The Gardens Between](/posts/the-gardens-between) -->
-
-<p>* blog post coming soon</p>
+31. [The Gardens Between](/posts/the-gardens-between)

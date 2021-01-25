@@ -1,7 +1,7 @@
 +++
 author = "Matthew Rodriguez"
 categories = ["Review"]
-date = "2020-12-05"
+date = "2020-12-04"
 description = "You are a Guardian, defender of the Last City"
 featured = "destiny-2.jpg"
 featuredalt = "Destiny 2"
@@ -9,7 +9,7 @@ featuredpath = "img/2020/12"
 linktitle = "2020/12/destiny-2.jpg"
 images = ["img/2020/12/destiny-2.jpg"]
 title = "Destiny 2"
-tags = ["games", "action", "adventure", "shooter", "single player", "multiplayer"]
+tags = ["games", "action", "shooter", "single player", "multiplayer"]
 type = "post"
 
 +++

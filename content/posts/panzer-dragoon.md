@@ -1,7 +1,7 @@
 +++
 author = "Matthew Rodriguez"
 categories = ["Review"]
-date = "2020-12-17"
+date = "2020-12-16"
 description = "you must fulfill your destiny"
 featured = "panzer-dragoon.jpg"
 featuredalt = "Panzer Dragoon"
@@ -9,7 +9,7 @@ featuredpath = "img/2020/12"
 linktitle = "2020/12/panzer-dragoon.jpg"
 images = ["img/2020/12/panzer-dragoon.jpg"]
 title = "Panzer Dragoon"
-tags = ["games", "remake", "arcade", "action", "adventure", "single player"]
+tags = ["games", "remake", "arcade", "action", "single player"]
 type = "post"
 
 +++

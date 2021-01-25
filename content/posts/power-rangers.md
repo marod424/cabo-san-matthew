@@ -1,7 +1,7 @@
 +++
 author = "Matthew Rodriguez"
 categories = ["Review"]
-date = "2020-12-19"
+date = "2020-12-18"
 description = "Battle for the Grid"
 featured = "power-rangers.jpg"
 featuredalt = "Power Rangers"

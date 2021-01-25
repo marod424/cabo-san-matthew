@@ -1,7 +1,7 @@
 +++
 author = "Matthew Rodriguez"
 categories = ["Review"]
-date = "2020-12-07"
+date = "2020-12-06"
 description = "CYBERPUNK VOLLEYBALL WITH GUNS"
 featured = "gunsport.jpg"
 featuredalt = "Gunsport"
@@ -9,7 +9,7 @@ featuredpath = "img/2020/12"
 linktitle = "2020/12/gunsport.jpg"
 images = ["img/2020/12/gunsport.jpg"]
 title = "Gunsport"
-tags = ["games", "arcade", "sports", "indie", "single player", "mutliplayer"]
+tags = ["games", "arcade", "indie", "single player", "mutliplayer"]
 type = "post"
 
 +++

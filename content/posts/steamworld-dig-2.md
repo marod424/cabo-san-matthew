@@ -1,7 +1,7 @@
 +++
 author = "Matthew Rodriguez"
 categories = ["Review"]
-date = "2020-12-25"
+date = "2020-12-24"
 description = "uncover what trembling terrors lie beneath"
 featured = "steamworld-dig-2.jpg"
 featuredalt = "SteamWorld Dig 2"

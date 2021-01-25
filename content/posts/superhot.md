@@ -1,7 +1,7 @@
 +++
 author = "Matthew Rodriguez"
 categories = ["Review"]
-date = "2020-12-30"
+date = "2020-12-29"
 description = "shoot, slice, and maneuver through a hurricane of slow-motion bullets"
 featured = "superhot.jpg"
 featuredalt = "SUPERHOT"

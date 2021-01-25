@@ -1,7 +1,7 @@
 +++
 author = "Matthew Rodriguez"
 categories = ["Review"]
-date = "2020-12-12"
+date = "2020-12-11"
 description = "hilarious, light-hearted physics platformer set in a world of floating dreamscapes"
 featured = "human-fall-flat.jpg"
 featuredalt = "Human: Fall Flat"
@@ -9,7 +9,7 @@ featuredpath = "img/2020/12"
 linktitle = "2020/12/human-fall-flat.jpg"
 images = ["img/2020/12/human-fall-flat.jpg"]
 title = "Human: Fall Flat"
-tags = ["games", "indie", "adventure", "kids & family", "single player", "multiplayer"]
+tags = ["games", "indie", "adventure", "single player", "multiplayer"]
 type = "post"
 
 +++

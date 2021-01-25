@@ -1,7 +1,7 @@
 +++
 author = "Matthew Rodriguez"
 categories = ["Review"]
-date = "2020-12-13"
+date = "2020-12-12"
 description = "Impress the Gods!"
 featured = "jotun.jpg"
 featuredalt = "Jotun"

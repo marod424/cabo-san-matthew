@@ -1,7 +1,7 @@
 +++
 author = "Matthew Rodriguez"
 categories = ["Review"]
-date = "2020-12-31"
+date = "2020-12-30"
 description = "Keep dancing the slow motion ballet of destruction"
 featured = "superhot-mind-control-delete.jpg"
 featuredalt = "SUPERHOT: MIND CONTROL DELETE"

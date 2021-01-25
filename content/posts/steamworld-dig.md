@@ -1,7 +1,7 @@
 +++
 author = "Matthew Rodriguez"
 categories = ["Review"]
-date = "2020-12-24"
+date = "2020-12-23"
 description = "Dig your way through the old earth"
 featured = "steamworld-dig.jpg"
 featuredalt = "SteamWorld Dig"

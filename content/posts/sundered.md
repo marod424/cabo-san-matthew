@@ -1,7 +1,7 @@
 +++
 author = "Matthew Rodriguez"
 categories = ["Review"]
-date = "2020-12-28"
+date = "2020-12-27"
 description = "Resist or embrace"
 featured = "sundered.jpg"
 featuredalt = "Sundered"

@@ -1,7 +1,7 @@
 +++
 author = "Matthew Rodriguez"
 categories = ["Review"]
-date = "2020-12-16"
+date = "2020-12-15"
 description = "orc-slaying mayhem to a previously unimaginable scale"
 featured = "orcs-must-die-3.jpg"
 featuredalt = "Orcs Must Die! 3"
@@ -9,7 +9,7 @@ featuredpath = "img/2020/12"
 linktitle = "2020/12/orcs-must-die-3.jpg"
 images = ["img/2020/12/orcs-must-die-3.jpg"]
 title = "Orcs Must Die! 3"
-tags = ["games", "action", "strategy", "indie", "single player", "mutiplayer"]
+tags = ["games", "action", "strategy", "single player", "mutiplayer"]
 type = "post"
 
 +++

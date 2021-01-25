@@ -1,7 +1,7 @@
 +++
 author = "Matthew Rodriguez"
 categories = ["Review"]
-date = "2020-12-04"
+date = "2020-12-03"
 description = "Death Is Not an Escape"
 featured = "dead-by-daylight.jpg"
 featuredalt = "Dead By Daylight"

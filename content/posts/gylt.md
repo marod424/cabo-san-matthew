@@ -1,7 +1,7 @@
 +++
 author = "Matthew Rodriguez"
 categories = ["Review"]
-date = "2020-12-08"
+date = "2020-12-07"
 description = "a haunting tale about bullying and childhood nightmares"
 featured = "gylt.jpg"
 featuredalt = "GYLT"

@@ -1,7 +1,7 @@
 +++
 author = "Matthew Rodriguez"
 categories = ["Review"]
-date = "2020-12-10"
+date = "2020-12-09"
 description = "dramatic prequel to Hello Neighbor"
 featured = "hello-neighbor-hide-n-seek.jpg"
 featuredalt = "Hello Neighbor: Hide & Seek"

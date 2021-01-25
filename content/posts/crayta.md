@@ -1,7 +1,7 @@
 +++
 author = "Matthew Rodriguez"
 categories = ["Review"]
-date = "2020-12-03"
+date = "2020-12-02"
 description = "game creation is now a game in itself!"
 featured = "crayta.jpg"
 featuredalt = "Crayta"
@@ -9,7 +9,7 @@ featuredpath = "img/2020/12"
 linktitle = "2020/12/crayta.jpg"
 images = ["img/2020/12/crayta.jpg"]
 title = "Crayta"
-tags = ["games", "arcade", "adventure", "party", "action", "multiplayer"]
+tags = ["games", "arcade", "adventure", "party", "multiplayer"]
 type = "post"
 
 +++

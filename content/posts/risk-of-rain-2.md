@@ -1,7 +1,7 @@
 +++
 author = "Matthew Rodriguez"
 categories = ["Review"]
-date = "2020-12-21"
+date = "2020-12-20"
 description = "Escape a chaotic alien planet"
 featured = "risk-of-rain-2.jpg"
 featuredalt = "Risk of Rain 2"
@@ -9,7 +9,7 @@ featuredpath = "img/2020/12"
 linktitle = "2020/12/risk-of-rain-2.jpg"
 images = ["img/2020/12/risk-of-rain-2.jpg"]
 title = "Risk of Rain 2"
-tags = ["games", "action", "adventure", "shooter", "single player", "multiplayer"]
+tags = ["games", "action", "shooter", "single player", "multiplayer"]
 type = "post"
 
 +++

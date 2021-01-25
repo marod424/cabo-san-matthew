@@ -1,7 +1,7 @@
 +++
 author = "Matthew Rodriguez"
 categories = ["Review"]
-date = "2020-12-23"
+date = "2020-12-22"
 description = "hunt your enemies"
 featured = "sniper-elite-4.jpg"
 featuredalt = "Sniper Elite 4"
@@ -9,7 +9,7 @@ featuredpath = "img/2020/12"
 linktitle = "2020/12/sniper-elite-4.jpg"
 images = ["img/2020/12/sniper-elite-4.jpg"]
 title = "Sniper Elite 4"
-tags = ["games", "action", "adventure", "shooter", "single player", "multiplayer"]
+tags = ["games", "action", "shooter", "single player", "multiplayer"]
 type = "post"
 
 +++

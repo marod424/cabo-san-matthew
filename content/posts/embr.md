@@ -1,7 +1,7 @@
 +++
 author = "Matthew Rodriguez"
 categories = ["Review"]
-date = "2020-12-06"
+date = "2020-12-05"
 description = "Fight fires and save lives while climbing the ladder of success"
 featured = "embr.jpg"
 featuredalt = "Embr"
@@ -9,7 +9,7 @@ featuredpath = "img/2020/12"
 linktitle = "2020/12/embr.jpg"
 images = ["img/2020/12/embr.jpg"]
 title = "Embr"
-tags = ["games", "early access", "indie", "simulation", "casual", "single player", "multiplayer"]
+tags = ["games", "indie", "simulation", "single player", "multiplayer"]
 type = "post"
 
 +++

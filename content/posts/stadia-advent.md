@@ -27,10 +27,12 @@ December has 31 days...
 
 # The Games
 
-1. [Celeste](/posts/celeste/)
-2. [Crayta](/posts/crayta/)
-3. [Dead by Daylight](/posts/dead-by-daylight/)
-4. [Destiny 2](/posts/destiny-2/)
+[Final grades](/posts/stadia-advent-grades) are in!
+
+1. [Celeste](/posts/celeste)
+2. [Crayta](/posts/crayta)
+3. [Dead by Daylight](/posts/dead-by-daylight)
+4. [Destiny 2](/posts/destiny-2)
 5. [Embr](/posts/embr)
 6. [Gunsport](/posts/gunsport)
 7. [GYLT](/posts/gylt)

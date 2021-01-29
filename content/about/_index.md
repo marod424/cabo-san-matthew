@@ -11,7 +11,7 @@ My name is Matthew Aaron Rodriguez.
 
 #### Christ is my identity.  I want to see the face of God.
 
-There's a lot behind this sentiment and desire.  Here's a [quick taste](https://cabosante.com/posts/my-5-minute-story/).
+There's a lot behind this sentiment and desire.  Here's a [quick taste](https://cabosante.com/posts/my-story/).
 
 By trade, I am a web developer. \
 I studied Applied Physics at the University of Michigan -- **go blue!** \

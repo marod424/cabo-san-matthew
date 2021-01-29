@@ -16,69 +16,67 @@ type = "post"
 
 > Lost in a mysterious realm where cause and effect are malleable, two friends find that time flows in all directions. Manipulate time to solve puzzles and reach the apex of each isle. Follow the duo as they unpack and explore their significant moments spent together, lighting up constellations and illuminating threads of a bittersweet narrative.
 
-<h1 style="text-align: center">8.3 / 10</h1>
+<h1 style="text-align: center">8.1 / 10</h1>
 
-<!-- Interested in reinvigorating old brain neural pathways? Well then, read on, and don't forget to thank lamb chop for the forever ingrained self-referential song of yore.
+Why are photos so important to us? While I'm not really into taking pictures -- I feel like we miss more moments in the process -- I understand the desire to capture snapshots of our lives, and I wholly admit to the comfort and pleasure upon reflection of past fading experiences and emotions.
 
-This is a game that never ends, it just goes on and on my friend. Some people started playing it not knowing what it was, but now they keep on playing it forever just because... -->
+This imaginative game moves deeply within the space of memories. Maybe for some the intended poignancy will prove evocative, I, however, just finished ironing my brain, and I've already forgotten what I'm even writing about. 
 
-*<b>Disclaimer</b> &mdash; this review is a result of my biased first impression after circulating a few hours of chronic gameplay and should be taken lightly.*
-
-***
-
-## Overall: 8.3 / 10
-
-*The Gardens Between*. _____. *The Gardens Between*.
-
-<!-- *SUPERHOT: MIND CONTROL DELETE* is a natural successor to the wonderfully imaginative FPS *SUPERHOT*. In keeping with the characteristic format of time moving only when you move, while extending the story into a seemingly endless repetition of survival, discovery, advancement, and death, the gameplay adds a rogue-like mechanic of skill upgrades -- from extra lives to exploding projectiles -- for a myriad of unique runs. *SUPERHOT: MIND CONTROL DELETE*, despite improving upon controls and production quality, reminds that often the original experience of something special may at best be asymptotically reached. -->
+*<b>Disclaimer</b> &mdash; this review is a result of my biased first impression after floating a few hours of fading gameplay and should be taken lightly.*
 
 ***
 
-### Gameplay: 7.4 / 10
-<!-- Improved polish of control; improved item and skill progression. Yet feels a bit grindy and loses the lovely cadence characteristic of its predecessor. -->
+## Overall: 8.1 / 10
+
+*The Gardens Between* is a creative puzzle adventure of a transitory nature. With simple controls, lending to moments that evolve only with character movement, and art direction that beautifully captures the imagination of adolescent nostalgia, the story -- touching on the timeless emotions of childhood friendship, memories, and loss -- yearns to be played out in a single session, from the comfort of your living room, and ideally on a tablet. *The Gardens Between*, despite delivering intricately designed levels of unfolding puzzles, fails to fully engage and deliver on the most important game metric - fun.
+
+***
+
+### Gameplay: 7.5 / 10
+Simple, a bit easy, and slightly repetitive.
 <br>
 <br>
  
-#### Controls 8.7 / 10
-<!-- Kept the good and removed the bad -- no more numpad to control replays, bravo! -->
+#### Controls 8.0 / 10
+As basic as they come. One button to move left, one button to move right, another to interact. Done. Too bad there isn't a button for sprinting or speeding up the action.
 
-#### Difficulty: 8.4 / 10
-<!-- Despite the difficulty seeming sometimes too easy, the game finds ways to punish. Unfortunately it results in more of a grind than a delicate balance of story and progression. -->
+#### Difficulty: 7.5 / 10
+The puzzles, although elegantly and cleverly designed into the environment, were too basic from a gameplay standpoint. Essentially the solutions were just a matter of repetitive guess and check, at most.
 
-#### Progression: 8.2 / 10
-<!-- Everything added to aid gameplay progression feels like the correct choice: a skill pool for rogue-like runs with different builds, varying enemy difficulty, new weapons and weapon mechanics. Again, it's just the fluidity of progression that suffers -- particularly when juxtaposed with the former title. -->
-
-***
-
-### Story: 9.2 / 10
-<!-- As a continuation of the story in [SUPERHOT](/posts/superhot), the only question that remains is... if.... it..... ever...... ends....... -->
-<br>
-<br>
-
-#### Characters: 9.4 / 10
-<!-- Well, now we have some backstory, built entirely from the first game. Yet, the novelty is worn a bit -- I have grown tired of myself. -->
-
-#### Setting: 9.3 / 10
-<!-- The levels are, again, wonderfully made for both story and gameplay. Unfortunately they become too repetitive, and feel less dream like and more nightmarish, as if trapped. -->
-
-#### Progression: 8.9 / 10
-<!-- This is the category that truly falls from the last. Everything else about this game is a general improvement of development and production. Sadly, story progression held so much of the divine experience together, hurting story and gameplay alike with its fall. -->
+#### Progression: 7.1 / 10
+The crux of the failure of the game. Despite a slight increase in level intricacy and consequently puzzle complexity, the gameplay never really progressed into anything fun.
 
 ***
 
-### Production: 9.2 / 10
-<!-- It's another masterpiece, and worth applauding. -->
+### Story: 8.0 / 10
+A beautiful ending to a moving message for an absent half-asleep audience.
 <br>
 <br>
 
-#### Music 8.8 / 10
-<!-- More music than the last, but the music in the disco level started to wear on my psyche. -->
+#### Characters: 7.7 / 10
+No depth, no dialog. They didn't interest me, and I don't care about them, which is a shame.
 
-#### Art 9.3 / 10
-<!-- It's a touch improved, and fits well. -->
+#### Setting: 8.6 / 10
+Beautiful and imaginative. A solid foundation to build characters off, and yet this connection never came through.
 
-#### Graphics 9.6 / 10
-<!-- Love the polish here, well done. -->
+#### Progression: 7.8 / 10
+The story moves along with a decent cadence, and the ending almost saves it entirely, but it thoroughly fails to engage.
+
+***
+
+### Production: 8.8 / 10
+Overall the production is good, the music is good, the visuals are good. 
+<br>
+<br>
+
+#### Music 9.4 / 10
+Good. Bonus points for having an album available in popular music apps.
+
+#### Art 8.6 / 10
+Good.
+
+#### Graphics 8.4 / 10
+Good.
 
 ***
 
@@ -89,6 +87,6 @@ For a one time couch and tablet experience.
 There is nothing left to play.
 
 **Joy?**    
-Peaceful.
+Time to rest.
 
 ***

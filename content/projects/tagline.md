@@ -57,4 +57,4 @@ I hope the same memory lives on with my friends and family.
 
 ***
 
-**God bless them.**
+**May God bless them.**

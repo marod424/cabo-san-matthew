@@ -39,12 +39,12 @@ I began at Dooble back in early 2014, approximately a year after grad school.
 
 A good friend was part of the small NYC based Dooble team and set up the connection. Dooble wasn't my idea, but I liked it well enough and thought it had potential. Plus I was tired of tutoring in my hometown while living in my parent's basement (a fact my younger brother loved to tease me about after my prodigal tenure in school).
 
-I was technical enough, coming from an engineering and physics background, and coding runs in the bloodline. It was a nice match, and although I was young and inexperienced, it was well-balanced by my being underpaid.
+I was technical enough, coming from an engineering and physics background, and coding runs in the bloodline. It was a nice match, and although I was young and inexperienced, it was well-balanced by my underwhelming paycheck (by NYC standards).
 
 ***
 
-NYC living was fun. I learned and experienced a lot, both in life and in web development.  It got my foot in the door. Dooble failed – I was let go, but it wasn't a personal failure. I believe the same can be said for each of my Dooble colleagues.
+NYC living was fun. I learned and experienced a lot, both in life and in web development.  It got my foot in the door. Dooble struggled – I was let go, but it wasn't a personal failure. I believe the same can be said for each of my Dooble colleagues.
 
 ***
 
-**God bless them.**
+**May God bless them.**

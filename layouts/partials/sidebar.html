@@ -6,7 +6,10 @@
     {{ $pic := .Site.Params.intro.pic }}
     {{ with $pic.src }}
       {{ if $pic.circle }}
-        <a href='#'><img src="{{ . | relURL }}" class="intro-circle" width="{{ $pic.width }}" alt="{{ $pic.alt }}" /></a>
+        <div id="logo">
+          <img src="/img/main/logo.png" class="intro-circle" width="{{ $pic.width }}" alt="{{ $pic.alt }}" />
+          <img src="/img/main/logo-beard.png" class="intro-circle" width="{{ $pic.width }}" alt="{{ $pic.alt }}" />
+        </div>
       {{ else if $pic.imperfect }}
         <a href='{{"/" | relURL}}' class="logo"><img src="{{ . | relURL }}" alt="{{ $pic.alt }}" /></a>
       {{ else }}

@@ -140,16 +140,11 @@
           });
       
           
-    // toggle intro image between logo and logo-beard
-      $('#intro img').click(function(event) {
-        var src = event.target.src;
-        var cleanSrc = '/img/main/logo.png';
-        var beardSrc = '/img/main/logo-beard.png';
-
-        event.preventDefault();
-        event.target.src = src.includes(cleanSrc) ? beardSrc : cleanSrc;
-      });
-
+    	// toggle intro image between logo and logo-beard
+		$('#logo').click(function(event) {
+			event.preventDefault();
+			$(event.target).toggleClass('hidden');
+		});
 	});
 
 })(jQuery);

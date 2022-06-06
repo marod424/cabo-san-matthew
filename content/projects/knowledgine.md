@@ -5,8 +5,8 @@ description = "Sound Knowledge for the Connected U"
 featured = "knowledgine.jpg"
 featuredalt = "University Building"
 featuredpath = "img/projects"
-link = "https://www.knowledgine.com/"
-linktitle = "knowledgine.com"
+# link = "https://www.knowledgine.com/"
+# linktitle = "knowledgine.com"
 title = "Knowledgine"
 tags = ["cofounder", "ed tech", "startup"]
 type = "itemized"
@@ -17,12 +17,14 @@ Knowledgine is an education technology startup.
 
 I joined my friend and co-founder Christian Balevski back in 2017 to pursue his mission to democratize education by democratizing educational leadership.
 
-Explore our [FAQ](https://www.knowledgine.com/faq) to learn more, or download our <a href="/media/knowledgine-white-paper.pdf" download="Knowledgine_White_Paper_Oct_2018">white paper</a> if you are interested in the technical details.
+<!-- Explore our [FAQ](https://www.knowledgine.com/faq) to learn more, or download our <a href="/media/knowledgine-white-paper.pdf" download="Knowledgine_White_Paper_Oct_2018">white paper</a> if you are interested in the technical details. -->
+
+Explore our <a href="/media/knowledgine-white-paper.pdf" download="Knowledgine_White_Paper_Oct_2018">white paper</a> to learn more.
 
 ***
 
 ## What Knowledgine Means to Me
-[Cross-post from Knowledgine blog -- 4/18/18](https://www.knowledgine.com/blog/what-knowledgine-means-to-me)
+<!-- [Cross-post from Knowledgine blog -- 4/18/18](https://www.knowledgine.com/blog/what-knowledgine-means-to-me) -->
 
 **I am Matthew Rodriguez. I am a life-long learner.**
 

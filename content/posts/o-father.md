@@ -8,7 +8,7 @@ featuredalt = "Boy and Dog in Wooded Quarry"
 featuredpath = "img/2015/12"
 linktitle = "2015/12/something-neatly-in-between.jpg"
 title = "O Father, I am Sleeping"
-tags = ["love", "spirit"]
+tags = ["love", "spirit", "self reference"]
 type = "post"
 
 +++

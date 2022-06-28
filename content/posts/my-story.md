@@ -8,7 +8,7 @@ featuredalt = "Speaking on stage at PAC"
 featuredpath = "img/2017/07"
 linktitle = "2017/07/pac-stage.jpg"
 title = "My Story"
-tags = ["God", "spirit"]
+tags = ["God", "spirit", "self reference"]
 type = "post"
 
 +++

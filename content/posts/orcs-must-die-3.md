@@ -9,7 +9,7 @@ featuredpath = "img/2020/12"
 linktitle = "2020/12/orcs-must-die-3.jpg"
 images = ["img/2020/12/orcs-must-die-3.jpg"]
 title = "Orcs Must Die! 3"
-tags = ["games", "action", "strategy", "single player", "mutiplayer"]
+tags = ["games", "action", "strategy", "single player", "multiplayer"]
 type = "post"
 
 +++

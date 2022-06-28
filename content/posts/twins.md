@@ -8,7 +8,7 @@ featuredalt = "twins"
 featuredpath = "img/2018/10"
 linktitle = "2018/10/twins.jpg"
 title = "Twins"
-tags = ["twins", "love"]
+tags = ["twins", "love", "self reference"]
 type = "post"
 
 +++

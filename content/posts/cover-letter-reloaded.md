@@ -3,10 +3,10 @@ author = "Matthew Rodriguez"
 categories = ["Letter"]
 date = "2022-06-28"
 description = "A past glance of a path toward future work"
-# featured = "pac-stage.jpg"
-# featuredalt = "Speaking on stage at PAC"
-# featuredpath = "img/2017/07"
-# linktitle = "2017/07/pac-stage.jpg"
+featured = "workstation.jpg"
+featuredalt = "My workstation"
+featuredpath = "img/2022/06"
+linktitle = "2022/06/workstation.jpg"
 title = "Cover Letter Reloaded"
 tags = ["web development", "job search", "self reference"]
 type = "post"
@@ -19,11 +19,11 @@ If a résumé is the table of contents, and a CV the abridged version, then this
 
 ## Origin
 
-I'm a product of my parents, as most of us are. They met in Silicon Valley -- my mother studying for her Master's Degree, my father working as a Computer Engineer. So I come from a technical family. By the time I entered college, my father was working as a patent attorney (often for technical IP) and my mother was teaching highschool AP Computer Science and Web Development. I have an older brother and a younger sister; as a family we love to play games, work on puzzles, and [submerge in mystery](/posts/o-father).
+I'm a product of my parents, as most of us are. They met in Silicon Valley -- my mother studying for her Master's Degree, my father working as a Computer Engineer. So I come from a technical family. By the time I entered college, my father was working as a patent attorney (often for technical IP) and my mother was teaching highschool AP Computer Science and Web Development. I have an older sister and a younger brother; as a family we love to play games, work on puzzles, and [submerge in mystery](/posts/o-father).
 
 #### Core Principles
 
-1. [**I value education**](/projects/knowledgine): I love to learn, think, explore, and work through problems; I don't sleep as well or attend to my other responsiblities if I am actively stumped -- *working on my equanimity!*
+1. [**Value education**](/projects/knowledgine): I love to learn, think, explore, and work through problems; I don't sleep as well or attend to my other responsiblities if I am actively stumped -- *working on my equanimity!*
 
 2. [**Faith based**](/posts/ocean): purpose driven, optimistic, and hopeful; introducing practicality into idealism can sometimes frustrate me -- *working on my balance!*
 
@@ -39,7 +39,7 @@ But after receiving my Master's degree I left for a myriad of reasons, of which 
 
 ### Post Graduation
 
-What followed was a solo-trip to India for some soul searching, of which I openly bare that I was much (if not more) my old self than (as I was trying to be) someone new.  
+What followed was a solo-trip to India for some soul searching, and I openly bare that I was much (if not more) my old self than (as I was trying to be) someone new.  
 Upon return I tutored middle school, high school, and undergraduate students at different times and in different (most gen ed) subjects. *The Great Gatsby* actually made sense to me; it had so much more life and meaning in this flipped perspective as an educator.  
 Finally, I worked on coding my first video game/simulation: *Color Game*.
 
@@ -64,22 +64,21 @@ I was a javascript developer, across the MEAN stack (**M**ongo, **E**xpress, **A
 
 ## A tale of two careers: Formal & Informal
 
-Dooble failed and I lost my job, so I found a junior web dev job in New Jersey and moved!
+Dooble failed and I lost my job, so I found a junior web dev job in New Jersey and moved.
 
 ### Billtrust
 
 I was a small fish, drenched from a firehose, and now swimming in a bigger pond.  
-**Billtrust**, a billing and payments business-to-business (B2B) Software-as-a-Service (SaaS) company, was a W/LAMP stack shop (**W**indows/**L**inux, **A**pache, **M**ySQL, **P**HP), and hired me as the *Javascript guy*, despite me being a junior developer and new to the industry.  
+**Billtrust**, a billing and payments business-to-business (B2B) Software-as-a-Service (SaaS) company, was a W/LAMP shop (**W**indows/**L**inux, **A**pache, **M**ySQL, **P**HP) and hired me as the *Javascript guy*.  
 As the *Javascript guy*, the goal was to migrate from jQuery to Single Page Applications (SPAs) via AngularJS.  
-Of which the highlight was a full reskin of an existing application from jQuery to Angular components over the course of approximately 2-3 months:  
+The highlight was a full reskin of an existing application from jQuery to Angular components over the course of approximately 2-3 months:  
   - Worked closely with a part-time contract UI/UX designer
   - Used *Material Design* as the basis
   - Built an internal component library
   - Refactored old views with new components
   - Implemented new components in all new existing views
 
-Ultimately, I learned full stack, agile development; I worked with product managers, DBAs, QA, DevOps resources, and of course other developers.  
-I am super grateful to Billtrust for the start of my formal career as a junior developer.
+Ultimately, I learned full stack, agile development; I worked with product managers, DBAs, QA, DevOps, and of course other developers.  
 
 #### Startup Sabbatical
 
@@ -137,12 +136,12 @@ Between boredom and frustration, I was wanting to work my passions into a career
 You are Here!
 - Uses Static Site Generation (SSG) via Hugo and a TOML templating engine
 - Has cloud server Github integration for automatic deployments
-- Integrated blog with stream during my [*Stadia Advent*](/posts/stadia-advent)
+- Integrated blog content with daily streaming during my [*Stadia Advent*](/posts/stadia-advent)
 - Created and streamed a World of Warcraft metagame, called [*Legacy*](/posts/wow-legacy)
 
 ### Frisch
 
-An unexpencted experience of a lifetime!
+An unexpected experience of a lifetime!
 - Private Jewish Modern Orthodox high school in North Jersey
 - Teaching high school AP Computer Science and Honors/Accelerated Physics
 - Fully remote (teaching over Zoom)
@@ -152,9 +151,9 @@ An unexpencted experience of a lifetime!
 
 It was time to work again, professionally.  
 *Anatha* had since raised money from the desktop wallet I helped develop while [free-lancing](/projects/anatha).  
-The company even built it's own blockchain and native cryptocurrency asset!  
+The company even built its own blockchain and native cryptocurrency asset!  
 They wanted a crypto NFT platform and hired me as a technical lead for the onset:  
-  - I worked with 2 other devs and 1 automation engineer on a NFT application and blockchain indexer  
+  - I worked with 2 other devs and 1 automation engineer on a NFT gallery application coupled with a blockchain indexer  
   - We chose Turborepo, NextJS (react), Vercel, and Node for our MVP stack
   - We completed the MVP in May...
 
